@@ -1,37 +1,143 @@
-## Welcome to GitHub Pages
+## 챕터 2
+챕터 2
+===========================
+## 單字(ㄉㄢ ㄗˋ)  단어
 
-You can use the [editor on GitHub](https://github.com/JiongXun/MandarinPage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+|한국어|中文|
+|---|---
+|도시|都市(ㄉㄨ ㄕˋ),城市(ㄔㄥˊ ㄕˋ)|
+|이름|名字(ㄇㄧㄥˊ ㄗˋ)|
+|남자|男(남)(ㄋㄢˊ),男生(ㄋㄢˊ ㄕㄥ ),男人(ㄋㄢˊ ㄖㄣˊ)|
+|여자|女(여)(ㄋㄩˇ),女生,女人|
+|사람|人|
+|이|這個(ㄓㄜˋ ㄍㄜ˙),這|
+|그|那個(ㄋㄚˋ ㄍㄜ˙),那|
+|것|事,事情(ㄕˋ ㄑㄧㄥˊ)|
+|컴퓨터|電腦(ㄉㄧㄢˋ ㄋㄠˇ)|
+|나라|國家(ㄍㄨㄛˊ ㄐㄧㄚ)|
+|중국|中國(ㄓㄨㄥ ㄍㄨㄥˊ)|
+|대만|台灣(ㄊㄞˊ ㄨㄢ )|
+|한국|韓國(ㄏㄢˊ ㄍㄨㄛˊ)|
+|일본|日本(ㄖˋ ㄅㄣˇ)|
+|의사|醫生(ㄧ ㄕㄥ)|
+|학생|學生(ㄒㄩㄝˊ ㄕㄥ)|
+|선생님|老師(ㄌㄠˇ ㄕ )|
+|네,에|是(ㄕˋ)|
+|아니|不是(ㄅㄨˊ ㄕˋ)|
+|저,나|我(ㄨㄛˇ)|
+|밥|飯(ㄈㄢˋ)|
+|너|你(ㄋㄧˇ)|
+|당신|您(ㄋ一ㄣˊ)|
+|걔,쟤|남자 他(ㄊㄚ) ,여자 她(ㄊㄚ)|
+|다들,여러분|大家(ㄉㄚˋ ㄐㄧㄚ)|
+### 인사 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	A:안녕하세요!	你好(ㄏㄠˇ)!
+	B:잘 지내세요? 你好嗎?
+	A:잘 지내고 있어요. (我)過得很好(ㄍㄨㄛˋ ㄉㄜ˙ ㄏㄣˇ ㄏㄠˇ). 
+	
+	다들 안녕하세요! 大家好!
+	(나)저는  ㅇㅇ 입니다. 我是 ㅇㅇ 
+	다들 만나서 반갑습니다. 很高興見到大家 (ㄏㄣˇ ㄍㄠ ㄒㄧㄥˋ ㄐㄧㄢˋ ㄉㄠˋ ㄉㄚˋ ㄐㄧㄚ)
+	
+		很- 너무  
+			예:
+				예쁘다漂亮(ㄆㄧㄠˋ ㄌㄧㄤˋ) , 너무 예쁘다很漂亮
+				아름답다美麗(ㄇㄟˇ ㄌ一ˋ) , 너무 아름답다很美麗
+		高興 좋다  
+		見 만나다
+		여기에서 到가 의미 없어요 
+		
+	그리고 很高興認識(ㄖㄣˋ ㄕˋ)大家 도 돼요 .
 
-### Markdown
+		認識 인식하다  (見보다 더 잘 아라는것) 
+		
+	Nice to see(見) you guys. 	Nice to meet(認識) you guys. 이럼 느낌이에요.
+### 是 嗯(ㄣ ) 對(ㄉㄨㄟˋ)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+대답 할 때 :
+	
+	是  는 에(네) 뜻이에요.
+	예 : 
+	Q 배가 고픈가요? 
+	A 네(是,嗯)
+	
+	Q 당신은 ㅇㅇ 이에요?? 您是 ㅇㅇ 嗎??
+	A 네.나는 ㅇㅇ 입니다. (嗯,我是ㅇㅇ) (是,我是ㅇㅇ)  (對,我是ㅇㅇ) 다 돼요 
+	
+	
+	근대!
+	
+	예 :
+	A가 : 너 ______ ??	
+	B가 : 네?(뭐라고요) <- 이렇게 네 , 是아니야 , (蛤 ㄏㄚˊ)嗯라고해야돼. (그래서 ,대만사람들이 잘 嗯(응) 말하다고.) 
+	
+	예 :
+	
+	A가: 이건 맞아요?? (這是對的嗎)
+	B가: 네,맞아요. 嗯,對(的).  (的유무에 관계없어요)
+	(!! 그래서 전 ㅇㅇ(응응)잘 말해요 ,죄송합니다 )
 
-```markdown
-Syntax highlighted code block
+주어 뒤에 :
 
-# Header 1
-## Header 2
-### Header 3
+	是 는 영어 is/am/are 느낌이 같은데.
+	
+	예 :
+	
+	(나)저는 OO 입니다. 我是OO(이름)
+	
+	(나)저는 한국사람 입니다. 我是韓國人
+	
+	(나)저는 학생(직업) 입니다. 我是學生
+	
+	근대!
+	
+	I am hungry.
+	전 배 고파요.
+	我肚子餓. ( 是가 없어요 )
+	저 (의) 배가 고파요.
+	
+### 不-  (죰 어려운)
 
-- Bulleted
-- List
+동사 앞에서 不
 
-1. Numbered
-2. List
+	너 밥 먹어요?? 你 吃 飯 嗎?
+	* 네,전 먹다. 嗯,我 吃.
+	* 아니요,전 안 먹다. 不, 我 不 吃.
+	* 아니요,전 못 먹다. 不, 我 不能(ㄋㄥˊ) 吃.
+		能 는 영어의 can 느낌이에요.
+			I can eat. 전 먹고 수 있다.  我能吃
+			I can not eat.전 먹고 수 없다.  我不能吃
 
-**Bold** and _Italic_ and `Code` text
+	A가: 이건 맞아요?? (這是對的嗎?)
+	B가: 아니요. (不對)
 
-[Link](url) and ![Image](src)
-```
+	나머지는 챕터3에서 할게요.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    
+### 연습하기 
 
-### Jekyll Themes
+    大家好
+    
+    我是 _____ (이름)
+    
+    我來自(ㄌㄞˊ ㄗˋ) _____ (나라,도시)    저는 ___에서 왔어요. 
+    
+    很高興認識大家
+    
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JiongXun/MandarinPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 추가 보충 단어 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+|한국어|中文|
+|---|---
+|의자|椅子(ㄧˇ ㄗ˙)|
+|탁자|桌子(ㄓㄨㄛ˙ ㄗ˙)|
+|차|車(ㄔㄜ )|
+|나무|樹木(ㄕㄨˋ ㄇㄨˋ),木頭(ㄇㄨˋ ㄊㄡˊ)|
+|소파|沙發(ㄕㄚ ㄈㄚ )|
+|침대|床(ㄔㄨㄤˊ)|
+|책|書(ㄕㄨ)|
+|문|門(ㄇㄣˊ)|
+|시청자|觀眾(ㄍㄨㄢ ㄓㄨㄥˋ)|
+|제발|拜託(ㄅㄞˋ ㄊㄨㄛ)|
+|안녕하 가세요(계세요)|再見(ㄗㄞˋ ㄐㄧㄢˋ)|
